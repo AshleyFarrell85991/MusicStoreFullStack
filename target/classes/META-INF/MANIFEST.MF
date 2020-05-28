@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: music3
+Implementation-Version: 1
+Built-By: ashleyfarrell
+Implementation-Vendor-Id: music3
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/music3
+Created-By: Maven Integration for Eclipse
+Main-Class: cs636.music.presentation.SBApplication
+
